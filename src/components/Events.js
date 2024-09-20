@@ -7,15 +7,15 @@ const Events = () => {
       <div className="portfolio__grid">
         <div className="portfolio__card">
           <img src="assets/portfolio-1.jpg" alt="portfolio" />
-          <div className="portfolio__content">VIEW PORTFOLIO</div>
+          {/* <div className="portfolio__content">VIEW PORTFOLIO</div> */}
         </div>
         <div className="portfolio__card">
           <img src="assets/portfolio-2.jpg" alt="portfolio" />
-          <div className="portfolio__content">VIEW PORTFOLIO</div>
+          {/* <div className="portfolio__content">VIEW PORTFOLIO</div> */}
         </div>
         <div className="portfolio__card">
           <img src="assets/portfolio-3.jpg" alt="portfolio" />
-          <div className="portfolio__content">VIEW PORTFOLIO</div>
+          {/* <div className="portfolio__content">VIEW PORTFOLIO</div> */}
         </div>
       </div>
     </section>

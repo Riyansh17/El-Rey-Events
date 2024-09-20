@@ -26,8 +26,8 @@ const Instagram = () => {
         <a href="https://www.instagram.com/p/C4YiaEpP639/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="/assets/INSTAGRAM (4).jpg" alt="INSTAGRAM" /></a>
         <a href="https://www.instagram.com/p/CJD6AW2ALOr/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="/assets/INSTAGRAM (5).jpg" alt="INSTAGRAM" /></a>
         <a href="https://www.instagram.com/p/C1xIeeIxRHA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="/assets/INSTAGRAM (6).jpg" alt="INSTAGRAM" /></a>
-        <a href="https://www.instagram.com/p/C8ujQnZSltC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="/assets/INSTAGRAM (7).jpg" alt="INSTAGRAM" /></a>
-        <a href="https://www.instagram.com/p/C9zjGVoSKN4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="/assets/INSTAGRAM (9).jpg" alt="INSTAGRAM" /></a>
+        {/* <a href="https://www.instagram.com/p/C8ujQnZSltC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="/assets/INSTAGRAM (7).jpg" alt="INSTAGRAM" /></a> */}
+        <a href="https://www.instagram.com/p/C9zjGVoSKN4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="/assets/INSTAGRAM (8).jpg" alt="INSTAGRAM" /></a>
       </div>
     </section>
   );
