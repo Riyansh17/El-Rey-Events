@@ -14,9 +14,9 @@ const Gallery = () => {
         <img src="assets/image (7).jpg" alt="gallery" />
         <img src="assets/image (8).jpg" alt="gallery" />
       </div>
-      <div className="gallery__btn">
+      {/* <div className="gallery__btn">
         <button className="btn">VIEW GALLERY</button>
-      </div>
+      </div> */}
     </section>
   );
 };

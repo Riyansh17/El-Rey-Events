@@ -16,7 +16,7 @@ const About = () => {
         celebrations, El Rey Events ensures every moment is majestic and
         memorable.
       </p>
-      <img src="assets/logo-dark.png" alt="logo" />
+      {/* <img src="assets/logo-dark.png" alt="logo" /> */}
     </section>
   );
 };

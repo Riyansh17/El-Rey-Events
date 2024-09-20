@@ -26,7 +26,7 @@ const Header = () => {
       <nav>
         <div className="nav__header">
           <div className="nav__logo">
-            <img src="assets/logo-white.png" alt="logo" />
+            <img src="assets/logo.png" alt="logo" />
           </div>
           <div id="menu-btn" className="nav__menu__btn" onClick={toggleMenu}>
             <i className={isMenuOpen ? "ri-close-line" : "ri-menu-line"}></i>
@@ -37,7 +37,7 @@ const Header = () => {
           <li><a href="#about">ABOUT US</a></li>
           <li><a href="#service">SERVICES</a></li>
           <li className="nav__logo">
-            <img src="assets/logo-white.png" alt="logo" />
+            <img src="assets/logo.png" alt="logo" />
           </li>
           <li><a href="#client">CLIENT</a></li>
           <li><a href="#blog">BLOG</a></li>
