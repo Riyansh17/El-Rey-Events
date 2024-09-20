@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer__col">
           <img src="assets/logo-dark.png" alt="logo" />
           <div className="footer__socials">
-            <a href="https://www.facebook.com/elreyevents28/"><i className="ri-facebook-fill"></i></a>
+            <a href="https://www.facebook.com/elreyevents28/"><i className="ri-facebook-circle-fill"></i></a>
             <a href="https://www.instagram.com/el_rey_events/"><i className="ri-instagram-fill"></i></a>
             <a href="https://www.youtube.com/channel/UCqwiOZmzg7nKMnzg_PNoG4Q"><i className="ri-youtube-fill"></i></a>
           </div>

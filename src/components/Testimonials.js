@@ -65,7 +65,7 @@ const Testimonials = () => {
           </div>
           <div className="swiper-slide">
             <div className="client__card">
-              <img src="assets/client-3.jpg" alt="client" />
+              <img src="assets/client-4.jpg" alt="client" />
               <p>
                 "El Rey's decor for our engagement party was breathtaking. They
                 truly have an eye for beauty and elegance."
